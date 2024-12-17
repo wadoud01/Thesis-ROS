@@ -4,7 +4,7 @@ This project presents an augmented reality (AR)-based control system for the Fra
 
 ## System Overview
 
-The system is composed of multiple components that work together to provide seamless interaction between the user and the robot:
+The system is composed of multiple components that work together to provide seamless interaction between the user, Hologram & Real Robot:
 - **User Interface**: Designed in Unity3D and displayed on Hololens 2 using MRTK.
 - **Robot Control**: ROS and MoveIt are used for real-time motion planning.
 - **Synchronization**: A ROS-TCP communication protocol enables data transfer between ROS and Unity.
